@@ -74,11 +74,8 @@
 
 fabrika-slov/  
 ├── main.py # Основной код навыка  
-├── requirements.txt # Зависимости Python  
 ├── words.csv # База слов с формами  
 ├── README.md # Документация проекта  
-└── tests/  
-└── test_results.xlsx # Результаты тестирования
 
 
 ---
